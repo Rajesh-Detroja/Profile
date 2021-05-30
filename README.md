@@ -26,7 +26,7 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 
 ## **Education**
 
-<a href="https://www.biu.ac.il/en"><img align="right" width="100" height="100" src="./images/bar_ilan.jpeg"></a>
+<a href="https://www.biu.ac.il/en"><img align="right" width="80" height="80" src="./images/bar_ilan.jpeg"></a>
 
 ### **Ph.D. Bioinformatics**
 
