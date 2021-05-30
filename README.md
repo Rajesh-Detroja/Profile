@@ -8,9 +8,10 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 
 ## **Experience**
 
+[[./images/xcelris.png]]
+
 ### **Bioinformatics Research Associate**
 
 **Company:** [Xcelris Labs Ltd.](http://www.xcelrisgenomics.com/)
 
 **Duration:** March 2015 – March 2017 (2 Years, 1 Mos)
-
