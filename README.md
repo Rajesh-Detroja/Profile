@@ -1,4 +1,4 @@
-## **Biography**
+## Biography
 
 Mr. Rajesh Detroja is a Bioinformatics **Ph.D. Student** at **[Bar-Ilan University](https://www.biu.ac.il/en)**. Where he is studying applied **Bioinformatics and Genomics Data Science** approaches to identify molecular biomarkers associated with complex genetic diseases.
 
@@ -10,11 +10,11 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 <br></br>
 
 
-## **Experience**
+## Experience
 
 <a href="https://www.linkedin.com/company/xcelris-labs-ltd-/"><img align="right" width="150" height="60" src="./images/xcelris.png"></a>
 
-### **Bioinformatics Research Associate**
+### Bioinformatics Research Associate
 
 **Company:** [Xcelris Labs Ltd.](https://www.linkedin.com/company/xcelris-labs-ltd-/)
 
@@ -24,11 +24,11 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 <br></br>
 
 
-## **Education**
+## Education
 
 <a href="https://www.biu.ac.il/en"><img align="right" width="80" height="80" src="./images/bar_ilan.jpeg"></a>
 
-### **Ph.D. Bioinformatics**
+### Ph.D. Bioinformatics
 
 **University:** [Bar-Ilan University](https://www.biu.ac.il/en)
 
@@ -36,7 +36,7 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 
 <br></br>
 
-### **M.Sc. Bioinformatics**
+### M.Sc. Bioinformatics
 
 <a href="https://bvuniversity.edu.in/"><img align="right" width="100" height="100" src="./images/bvdu.png"></a>
 
@@ -48,7 +48,7 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 
 <br></br>
 
-### **B.Sc. Bioinformatics**
+### B.Sc. Bioinformatics
 
 <a href="http://www.spuvvn.edu/"><img align="right" width="100" height="100" src="./images/spu.png"></a>
 
@@ -61,7 +61,7 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 
 <br></br>
 
-## **Skills**
+## Skills
 
 ### Top skills
 
@@ -91,3 +91,7 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 ### Other Skills
 
 + Computational Biology
+
+<br></br>
+
+## Publications
