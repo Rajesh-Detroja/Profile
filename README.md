@@ -50,7 +50,7 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 
 ### **B.Sc. Bioinformatics**
 
-<a href="http://www.spuvvn.edu/"><img align="right" width="150" height="60" src="./images/spu.png"></a>
+<a href="http://www.spuvvn.edu/"><img align="right" width="100" height="100" src="./images/spu.png"></a>
 
 **University:** [Sardar Patel University](http://www.spuvvn.edu/)
 
