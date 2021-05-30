@@ -15,3 +15,11 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 **Company:** [Xcelris Labs Ltd.](https://www.linkedin.com/company/xcelris-labs-ltd-/)
 
 **Duration:** March 2015 – March 2017 (2 Years, 1 Mos)
+
+## **Education**
+
+### **Ph.D. Bioinformatics**
+
+**University:** [Bar-Ilan University](https://www.biu.ac.il/en)
+
+**Duration:** March, 2017 – Present (3 Years, 4 Mos)
