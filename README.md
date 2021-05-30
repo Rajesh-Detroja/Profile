@@ -45,6 +45,8 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 
 **Duration:** March, 2017 – Present (4 Years, 2 Mos)
 
+**Place:** [Safed](https://en.wikipedia.org/wiki/Safed), Israel
+
 <br></br>
 
 ### M.Sc. Bioinformatics
@@ -55,7 +57,7 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 
 **Duration:** 2013 – 2015 (2 Years)
 
-**Place:** Pune, India
+**Place:** [Pune](https://en.wikipedia.org/wiki/Pune), India
 
 <br></br>
 
@@ -67,7 +69,7 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 
 **Duration:** 2010 – 2013 (3 Years)
 
-**Place:** Vallabh Vidyanagar, India
+**Place:** [Vallabh Vidyanagar](https://en.wikipedia.org/wiki/Vallabh_Vidyanagar), India
 
 
 <br></br>
