@@ -1,4 +1,8 @@
-<a href="https://www.linkedin.com/company/xcelris-labs-ltd-/"><img align="center" width="150" height="60" src="./images/home-solid.svg"></a>
+<a href="https://github.com/Rajesh-Detroja/Profile"><img align="center" width="50" height="50" src="./images/home-solid.svg"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Rajesh-Detroja/Profile"><img align="center" width="50" height="50" src="./images/home-solid.svg"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Rajesh-Detroja/Profile"><img align="center" width="50" height="50" src="./images/home-solid.svg"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Rajesh-Detroja/Profile"><img align="center" width="50" height="50" src="./images/home-solid.svg"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Rajesh-Detroja/Profile"><img align="center" width="50" height="50" src="./images/home-solid.svg"></a> &nbsp;&nbsp;&nbsp;
 
 <br></br>
 
