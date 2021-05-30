@@ -1,3 +1,4 @@
+## Rajesh Detroja
 
 <a href="https://github.com/Rajesh-Detroja/Profile"><img align="center" width="50" height="50" src="./images/home-solid.svg"></a> &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/rajeshdetroja"><img align="center" width="50" height="50" src="./images/twitter-brands.svg"></a> &nbsp;&nbsp;&nbsp;
@@ -105,3 +106,8 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 <br></br>
 
 ## Publications
+
+<a href="https://scholar.google.com/citations?user=C6qo1RMAAAAJ&hl=en"><img align="center" width="60" height="60" src="./images/google-scholar.svg"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://pubmed.ncbi.nlm.nih.gov/?term=rajesh+detroja"><img align="center" width="60" height="60" src="./images/pubmed.svg"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://orcid.org/0000-0003-2617-6998"><img align="center" width="60" height="60" src="./images/orcid.svg"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.researchgate.net/profile/Rajesh-Detroja"><img align="center" width="60" height="60" src="./images/researchgate.svg"></a> &nbsp;&nbsp;&nbsp;
