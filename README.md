@@ -1,3 +1,7 @@
+<a href="https://www.linkedin.com/company/xcelris-labs-ltd-/"><img align="center" width="150" height="60" src="./images/home-solid.svg"></a>
+
+<br></br>
+
 ## Biography
 
 Mr. Rajesh Detroja is a Bioinformatics **Ph.D. Student** at **[Bar-Ilan University](https://www.biu.ac.il/en)**. Where he is studying applied **Bioinformatics and Genomics Data Science** approaches to identify molecular biomarkers associated with complex genetic diseases.
