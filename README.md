@@ -8,7 +8,7 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 
 ## **Experience**
 
-<img align="right" src="./images/xcelris.png">
+<a href="http://www.xcelrisgenomics.com/"><img align="right" width="150" height="60" src="./images/xcelris.png"></a>
 
 ### **Bioinformatics Research Associate**
 
