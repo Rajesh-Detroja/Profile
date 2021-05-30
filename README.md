@@ -34,7 +34,7 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 
 **Duration:** March, 2017 – Present (4 Years, 2 Mos)
 
-<br />
+<br></br>
 
 ### **M.Sc. Bioinformatics**
 
@@ -46,7 +46,7 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 
 **Place:** Pune, India
 
-<br />
+<br></br>
 
 ### **B.Sc. Bioinformatics**
 
@@ -57,3 +57,37 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 **Duration:** 2010 – 2013 (3 Years)
 
 **Place:** Vallabh Vidyanagar, India
+
+
+<br></br>
+
+## **Skills**
+
+### Top skills
+
++ Bioinformatics
++ Genomics
++ NGS
+
+<br></br>
+
+### Tools & Technologies
+
++ R
++ Python
++ Bash
+
+<br></br>
+
+### Interpersonal Skills
+
++ Creative problem solving
++ Time management
++ Ability to work independently and within a team environment
++ Excellent organizational skill
+
+<br></br>
+
+### Other Skills
+
++ Computational Biology
