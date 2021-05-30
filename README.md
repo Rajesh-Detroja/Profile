@@ -1,8 +1,9 @@
 <a href="https://github.com/Rajesh-Detroja/Profile"><img align="center" width="50" height="50" src="./images/home-solid.svg"></a> &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Rajesh-Detroja/Profile"><img align="center" width="50" height="50" src="./images/home-solid.svg"></a> &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Rajesh-Detroja/Profile"><img align="center" width="50" height="50" src="./images/home-solid.svg"></a> &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Rajesh-Detroja/Profile"><img align="center" width="50" height="50" src="./images/home-solid.svg"></a> &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Rajesh-Detroja/Profile"><img align="center" width="50" height="50" src="./images/home-solid.svg"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/rajeshdetroja"><img align="center" width="50" height="50" src="./images/twitter-brands.svg"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rajesh-detroja/"><img align="center" width="50" height="50" src="./images/linkedin-in-brands.svg"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Rajesh-Detroja"><img align="center" width="50" height="50" src="./images/github-brands.svg"></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100014545279479"><img align="center" width="50" height="50" src="./images/facebook-f-brands.svg"></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:rajesh.detroja.93@gmail.com"><img align="center" width="50" height="50" src="./images/envelope-solid.svg"></a> &nbsp;&nbsp;&nbsp;
 
 <br></br>
 
