@@ -26,6 +26,8 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 
 ## **Education**
 
+<a href="https://www.biu.ac.il/en"><img align="right" width="100" height="100" src="./images/bar_ilan.jpeg"></a>
+
 ### **Ph.D. Bioinformatics**
 
 **University:** [Bar-Ilan University](https://www.biu.ac.il/en)
@@ -36,6 +38,8 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 
 ### **M.Sc. Bioinformatics**
 
+<a href="https://bvuniversity.edu.in/"><img align="right" width="100" height="100" src="./images/bvdu.png"></a>
+
 **University:** [Bharati Vidyapeeth Deemed University](https://bvuniversity.edu.in/)
 
 **Duration:** 2013 – 2015 (2 Years)
@@ -45,6 +49,8 @@ He received his **B.Sc.** and **M.Sc.** in Bioinformatics from **[Sardar Patel U
 <br />
 
 ### **B.Sc. Bioinformatics**
+
+<a href="http://www.spuvvn.edu/"><img align="right" width="150" height="60" src="./images/spu.png"></a>
 
 **University:** [Sardar Patel University](http://www.spuvvn.edu/)
 
