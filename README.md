@@ -1,5 +1,5 @@
 ## Rajesh Detroja
-OK
+
 <a href="https://github.com/Rajesh-Detroja/Profile"><img align="center" width="50" height="50" src="./images/home-solid.svg"></a> &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/rajeshdetroja"><img align="center" width="50" height="50" src="./images/twitter-brands.svg"></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rajesh-detroja/"><img align="center" width="50" height="50" src="./images/linkedin-in-brands.svg"></a> &nbsp;&nbsp;&nbsp;
